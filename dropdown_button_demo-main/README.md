@@ -113,9 +113,7 @@ Widget _buildDropdownSection(
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ThierrySHYAKA/dropdown_button_demo.git
-   cd dropdown_button_demo
-   ```
+   git clone https://github.com/Hubert2c/Munezero-Hubert-Drop-down-button.git
 
 2. **Install dependencies**
    ```bash
